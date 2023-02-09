@@ -1,1 +1,1 @@
-Display current directory contents in a long format
+The symbolic link should be created in the current working directory.
