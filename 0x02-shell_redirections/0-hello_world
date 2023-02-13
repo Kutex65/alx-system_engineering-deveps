@@ -1,4 +1,6 @@
 #!/bin/bash
-echo -e "Hello, World/N"
+echo "Hello, World"
+touch README.md
+
 
 
